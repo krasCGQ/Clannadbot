@@ -329,7 +329,10 @@ return {
 	"^[#/!](remlog)$",
 	"%[(photo)%]",
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> 2f98296... Set Bot Name Added :D
 	"^[!/](setbotname) (.*)$",
 	"^[!/](contactlist)$",
 	"^[!/](dialoglist)$",
