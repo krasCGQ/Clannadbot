@@ -484,3 +484,15 @@
  
 [ Sat Nov 12 16:02:06 2016 ]=>  GNU/Haruhi Suzumiya-chan (涼宮ハルヒちゃん) XDA:  anupritaisno1 [212257536] added Log_SuperGroup
  
+[ Thu Nov 24 06:09:23 2016 ]=>  GNU/Haruhi Suzumiya-chan (涼宮ハルヒちゃん) XDA:  anupritaisno1 [212257536] requested SuperGroup users list
+ 
+[ Thu Nov 24 07:58:42 2016 ]=>  GNU/Haruhi Suzumiya-chan (涼宮ハルヒちゃん) XDA:  anupritaisno1 [212257536] started setting new SuperGroup photo
+ 
+[ Thu Nov 24 07:58:47 2016 ]=>  GNU/Haruhi Suzumiya-chan (涼宮ハルヒちゃん) XDA:  anupritaisno1 [212257536] set new SuperGroup photo
+ 
+[ Thu Nov 24 07:59:53 2016 ]=>  GNU/Haruhi Suzumiya-chan (涼宮ハルヒちゃん) XDA:  anupritaisno1 [212257536] requested SuperGroup ID
+ 
+[ Thu Nov 24 08:02:06 2016 ]=>  GNU/Haruhi Suzumiya-chan (涼宮ハルヒちゃん) XDA:  anupritaisno1 [212257536] requested group rules
+ 
+[ Thu Nov 24 08:02:11 2016 ]=>  GNU/Haruhi Suzumiya-chan (涼宮ハルヒちゃん) XDA:  anupritaisno1 [212257536] requested SuperGroup settings 
+ 

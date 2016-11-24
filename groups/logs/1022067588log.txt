@@ -3300,3 +3300,27 @@
  
 [ Wed Nov 23 15:56:14 2016 ]=>  Hitagi [213562854] banned user is talking !
  
+[ Thu Nov 24 04:17:39 2016 ]=>  Hitagi [213562854] banned user is talking !
+ 
+[ Thu Nov 24 04:24:21 2016 ]=>  Hitagi [213562854] banned user is talking !
+ 
+[ Thu Nov 24 07:12:12 2016 ]=>  Hitagi [213562854] banned user is talking !
+ 
+[ Thu Nov 24 07:23:22 2016 ]=>  Hitagi [213562854] banned user is talking !
+ 
+[ Thu Nov 24 10:24:38 2016 ]=>  DennisSey [171272068] banned user is talking !
+ 
+[ Thu Nov 24 10:26:04 2016 ]=>  DennisSey [171272068] banned user is talking !
+ 
+[ Thu Nov 24 10:53:02 2016 ]=>  DennisSey [171272068] banned user is talking !
+ 
+[ Thu Nov 24 10:53:26 2016 ]=>  DennisSey [171272068] banned user is talking !
+ 
+[ Thu Nov 24 10:53:45 2016 ]=>  DennisSey [171272068] banned user is talking !
+ 
+[ Thu Nov 24 10:54:45 2016 ]=>  DennisSey [171272068] banned user is talking !
+ 
+[ Thu Nov 24 10:54:53 2016 ]=>  DennisSey [171272068] banned user is talking !
+ 
+[ Thu Nov 24 10:55:08 2016 ]=>  DennisSey [171272068] banned user is talking !
+ 

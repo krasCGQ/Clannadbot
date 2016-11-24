@@ -94,3 +94,7 @@
  
 [ Sat Oct 29 17:17:28 2016 ]=>  yuda [34804026] requested group rules
  
+[ Thu Nov 24 06:09:50 2016 ]=>  GNU/Haruhi Suzumiya-chan (涼宮ハルヒちゃん) XDA:  anupritaisno1 [212257536] requested SuperGroup users list
+ 
+[ Thu Nov 24 06:44:45 2016 ]=>  GNU/Haruhi Suzumiya-chan (涼宮ハルヒちゃん) XDA:  anupritaisno1 [212257536] requested SuperGroup users list
+ 

@@ -550,3 +550,13 @@
  
 [ Tue Nov 22 04:04:00 2016 ]=>  Hitagi [213562854] banned user is talking !
  
+[ Thu Nov 24 07:49:10 2016 ]=>  Hitagi [213562854] banned user is talking !
+ 
+[ Thu Nov 24 07:49:11 2016 ]=>  Hitagi [213562854] banned user is talking !
+ 
+[ Thu Nov 24 07:49:17 2016 ]=>  Hitagi [213562854] banned user is talking !
+ 
+[ Thu Nov 24 07:49:25 2016 ]=>  Hitagi [213562854] banned user is talking !
+ 
+[ Thu Nov 24 07:49:27 2016 ]=>  Hitagi [213562854] banned user is talking !
+ 

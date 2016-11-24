@@ -98,3 +98,5 @@
  
 [ Sat Oct 29 04:45:59 2016 ]=>  Shayan ^ ^ [101821278] requested group rules
  
+[ Thu Nov 24 07:49:26 2016 ]=>  Hitagi [213562854] banned user is talking !
+ 
