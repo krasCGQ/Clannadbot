@@ -201,6 +201,9 @@ local function run(msg,matches)
     	local hash = parsed_url(matches[2])
     	import_chat_link(hash,ok_cb,false)
     end
+    if matches[1] == "setbotname" and is_sudo(msg) then--join by group link
+    	set_profile_name(matches[2],ok_cb,false)
+    end
     if matches[1] == "contactlist" then
 	    if not is_sudo(msg) then-- Sudo only
     		return
@@ -325,6 +328,19 @@ return {
 	"^[#/!](addlog)$",
 	"^[#/!](remlog)$",
 	"%[(photo)%]",
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> 2f98296... Set Bot Name Added :D
+	"^[!/](setbotname) (.*)$",
+	"^[!/](contactlist)$",
+	"^[!/](dialoglist)$",
+	"^[!/](delcontact) (%d+)$",
+        "^[!/](addcontact) (.*) (.*) (.*)$",
+	"^[!/](whois) (%d+)$",
+	"^/(sync_gbans)$"--sync your global bans with seed
+>>>>>>> 2f98296... Set Bot Name Added :D
   },
   run = run,
   pre_process = pre_process
