@@ -1410,3 +1410,9 @@ If you are banned by the bot, you should directly get in touch with clannad or y
  
 [ Thu Nov 24 07:41:57 2016 ]=>  GNU/Haruhi Suzumiya-chan (涼宮ハルヒちゃん) XDA:  anupritaisno1 [212257536] requested SuperGroup ID
  
+[ Thu Nov 24 11:19:10 2016 ]=>  GNU/Haruhi Suzumiya-chan (涼宮ハルヒちゃん) XDA:  anupritaisno1 [212257536] requested SuperGroup settings 
+ 
+[ Thu Nov 24 11:19:36 2016 ]=>  GNU/Haruhi Suzumiya-chan (涼宮ハルヒちゃん) XDA:  anupritaisno1 [212257536] requested SuperGroup settings 
+ 
+[ Thu Nov 24 11:21:17 2016 ]=>  GNU/Haruhi Suzumiya-chan (涼宮ハルヒちゃん) XDA:  anupritaisno1 [212257536] requested SuperGroup settings 
+ 
