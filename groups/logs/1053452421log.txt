@@ -490,3 +490,11 @@ Don't spam]
  
 [ Thu Nov 17 01:40:55 2016 ]=>  GNU/Haruhi Suzumiya-chan (涼宮ハルヒちゃん) XDA:  anupritaisno1 [212257536] requested group link [https://telegram.me/joinchat/DKbLAD7KaIUj4qlz9zWSBA]
  
+[ Sat Nov 26 04:39:41 2016 ]=>  GNU/Haruhi Suzumiya-chan (涼宮ハルヒちゃん) XDA:  anupritaisno1 [212257536] requested SuperGroup ID
+ 
+[ Sat Nov 26 19:26:37 2016 ]=>  Rohan via  Linuxbot [162889325] requested SuperGroup ID
+ 
+[ Sat Nov 26 19:26:44 2016 ]=>  Rohan via  Linuxbot [162889325] deleted a message by reply
+ 
+[ Sat Nov 26 19:26:47 2016 ]=>  Rohan via  Linuxbot [162889325] deleted a message by reply
+ 
