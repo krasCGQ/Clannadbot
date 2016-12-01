@@ -1416,3 +1416,15 @@ If you are banned by the bot, you should directly get in touch with clannad or y
  
 [ Thu Nov 24 11:21:17 2016 ]=>  GNU/Haruhi Suzumiya-chan (涼宮ハルヒちゃん) XDA:  anupritaisno1 [212257536] requested SuperGroup settings 
  
+[ Sat Nov 26 16:58:24 2016 ]=>  Rohan via  Linuxbot [162889325] requested SuperGroup ID
+ 
+[ Sat Nov 26 16:58:35 2016 ]=>  Rohan via  Linuxbot [162889325] deleted a message by reply
+ 
+[ Sat Nov 26 16:58:40 2016 ]=>  Rohan via  Linuxbot [162889325] deleted a message by reply
+ 
+[ Sat Nov 26 17:09:59 2016 ]=>  Rohan via  Linuxbot [162889325] deleted a message by reply
+ 
+[ Sat Nov 26 19:03:46 2016 ]=>  yuda [34804026] requested group rules
+ 
+[ Sat Nov 26 19:04:04 2016 ]=>  yuda [34804026] renamed SuperGroup to: 💯 hacking games 💯 (3.4K)
+ 

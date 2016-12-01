@@ -69,7 +69,6 @@ function msg_valid(msg)
   end
 
   if not msg.to.id then
-
     print('\27[36mNot valid: To id not provided\27[39m')
     return false
   end
@@ -448,7 +447,7 @@ Save <text> as [value]
 !get [value]
 Returns text of [value]
 
-!clean [modlist|rules|about|banlist]
+!clean [modlist|rules|about]
 Will clear [modlist|rules|about] and set it to nil
 
 !res [username]
@@ -550,12 +549,12 @@ Retireives the group link
 !rules
 Retrieves the chat rules
 
-!lock [links|flood|spam|Arabic|member|rtl|sticker|contacts|strict|fwd]
+!lock [links|flood|spam|Arabic|member|rtl|sticker|contacts|strict]
 Lock group settings
 *rtl: Delete msg if Right To Left Char. is in name*
 *strict: enable strict settings enforcement (violating user will be kicked)*
 
-!unlock [links|flood|spam|Arabic|member|rtl|sticker|contacts|strict|fwd]
+!unlock [links|flood|spam|Arabic|member|rtl|sticker|contacts|strict]
 Unlock group settings
 *rtl: Delete msg if Right To Left Char. is in name*
 *strict: disable strict settings enforcement (violating user will not be kicked)*
@@ -588,7 +587,7 @@ Returns list of muted users in chat
 !banlist
 Returns SuperGroup ban list
 
-!clean [rules|about|modlist|mutelist|banlist]
+!clean [rules|about|modlist|mutelist]
 
 !del
 Deletes a message by reply

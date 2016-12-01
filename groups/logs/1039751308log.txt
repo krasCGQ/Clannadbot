@@ -426,3 +426,9 @@
  
 [ Sat Sep 10 11:54:00 2016 ]=>  SpeedFreek [160837387] banned user is talking !
  
+[ Sat Nov 26 19:25:25 2016 ]=>  Hitagi [213562854] banned user is talking !
+ 
+[ Sat Nov 26 19:25:38 2016 ]=>  Hitagi [213562854] banned user is talking !
+ 
+[ Sat Nov 26 19:25:57 2016 ]=>  Hitagi [213562854] banned user is talking !
+ 

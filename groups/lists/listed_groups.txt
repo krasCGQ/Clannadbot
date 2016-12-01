@@ -10,7 +10,7 @@ List of Groups:
 3 - CyanOxy OOS3 6.0
 (ID: 1049376870)
 
-4 - 💯 hacking games 💯 (2.9K)
+4 - 💯 hacking games 💯 (3.4K)
 (ID: 1052349020)
 
 5 - Oneplus 3 General Discussion
@@ -37,7 +37,7 @@ List of Groups:
 12 - Wormhole #shitpost #speechwar #pollwar #capswar #nocapswar #feelsgoodman
 (ID: 1064877198)
 
-13 - Oneplus™ Official cyanogenmod 14 discussion
+13 - Oneplus™ Official cyanogenmod 13,14.1 discussion
 (ID: 1065585334)
 
 14 - OP2_OFFICIAL <AOSPA>
@@ -45,4 +45,7 @@ List of Groups:
 
 15 - VIPER FX (V4A) discussion
 (ID: 1077280235)
+
+16 - Oneplus 3t General Discussion
+(ID: 1082697998)
 
