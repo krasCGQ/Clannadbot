@@ -10,7 +10,7 @@ rock_manifest = {
       }
    },
    lib = {
-      ['lxp.so'] = "88e15c190fdb8a9767305de7c9d4db35"
+      ['lxp.so'] = "ad72b03e50d0587056e424dfc59d82e6"
    },
    lua = {
       lxp = {

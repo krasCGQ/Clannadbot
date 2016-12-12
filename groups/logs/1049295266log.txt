@@ -556,3 +556,27 @@
  
 [ Fri Nov 25 20:01:12 2016 ]=>  GroupButler [176365905] banned user is talking !
  
+[ Fri Dec  2 23:32:25 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sat Dec  3 05:16:27 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sat Dec  3 15:39:36 2016 ]=>  💀RAVANA💀 [138312364] banned user is talking !
+ 
+[ Sun Dec  4 01:03:45 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sun Dec  4 15:38:59 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Wed Dec  7 11:16:26 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Wed Dec  7 23:13:35 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Thu Dec  8 08:33:40 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Thu Dec  8 14:01:01 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Fri Dec  9 18:42:11 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Fri Dec  9 23:04:16 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sat Dec 10 18:12:21 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 

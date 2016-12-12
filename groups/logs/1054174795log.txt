@@ -504,3 +504,29 @@
  
 [ Sat Nov 26 08:13:35 2016 ]=>  Kawaii Starfish ⭐️🐠 [206197460] deleted a message by reply
  
+[ Fri Dec  2 15:52:05 2016 ]=>  GNU/Haruhi Suzumiya-chan (涼宮ハルヒちゃん) XDA:  anupritaisno1 [0] renamed SuperGroup to: haruhi bot admins,devs and OT stuff && the haruhi spam team uncut!
+ 
+[ Fri Dec  2 16:49:47 2016 ]=>  Leib moss® Admin [152031724] joined the SuperGroup via link
+ 
+[ Fri Dec  2 16:53:32 2016 ]=>  GNU/Haruhi Suzumiya-chan (涼宮ハルヒちゃん) XDA:  anupritaisno1 [212257536] set new SuperGroup photo
+ 
+[ Fri Dec  2 16:55:31 2016 ]=>  GNU/Haruhi Suzumiya-chan (涼宮ハルヒちゃん) XDA:  anupritaisno1 [212257536] started setting new SuperGroup photo
+ 
+[ Fri Dec  2 16:55:48 2016 ]=>  GNU/Haruhi Suzumiya-chan (涼宮ハルヒちゃん) XDA:  anupritaisno1 [212257536] set new SuperGroup photo
+ 
+[ Fri Dec  2 20:31:47 2016 ]=>  GNU/Haruhi Suzumiya-chan (涼宮ハルヒちゃん) XDA:  anupritaisno1 [212257536] promoted @nicholaschum
+ 
+[ Fri Dec  2 20:42:48 2016 ]=>  GNU/Haruhi Suzumiya-chan (涼宮ハルヒちゃん) XDA:  anupritaisno1 [212257536] demoted @nicholaschum
+ 
+[ Fri Dec  9 16:08:23 2016 ]=>  GNU/Haruhi Suzumiya-chan (涼宮ハルヒちゃん) XDA:  anupritaisno1 [212257536] requested SuperGroup ID
+ 
+[ Fri Dec  9 17:26:01 2016 ]=>  Bot_admin_2 [161472020] Used /superhelp
+ 
+[ Fri Dec  9 20:41:16 2016 ]=>  Kawaii Starfish ⭐️🐠 [206197460] deleted a message by reply
+ 
+[ Fri Dec  9 20:51:27 2016 ]=>  GNU/Haruhi_Suzumiya-chan_(涼宮ハルヒちゃん)_XDA:__anupritaisno1 [212257536] Used /superhelp
+ 
+[ Fri Dec  9 20:52:16 2016 ]=>  Bot_admin_2 [161472020] Used /superhelp
+ 
+[ Fri Dec  9 20:52:18 2016 ]=>  GNU/Haruhi Suzumiya-chan (涼宮ハルヒちゃん) XDA:  anupritaisno1 [212257536] promoted @droidboot
+ 

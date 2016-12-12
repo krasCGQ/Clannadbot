@@ -1876,3 +1876,41 @@
  
 [ Tue Nov 22 09:27:32 2016 ]=>  JoeBloggs [246559447] banned user is talking !
  
+[ Fri Dec  2 15:06:24 2016 ]=>  JoeBloggs [246559447] banned user is talking !
+ 
+[ Fri Dec  2 15:07:21 2016 ]=>  JoeBloggs [246559447] banned user is talking !
+ 
+[ Sat Dec  3 12:51:38 2016 ]=>  JoeBloggs [246559447] banned user is talking !
+ 
+[ Sat Dec  3 12:59:08 2016 ]=>  JoeBloggs [246559447] banned user is talking !
+ 
+[ Sat Dec  3 12:59:37 2016 ]=>  JoeBloggs [246559447] banned user is talking !
+ 
+[ Sat Dec  3 13:07:16 2016 ]=>  JoeBloggs [246559447] banned user is talking !
+ 
+[ Sat Dec  3 14:24:34 2016 ]=>  JoeBloggs [246559447] banned user is talking !
+ 
+[ Sun Dec  4 07:22:26 2016 ]=>  JoeBloggs [246559447] banned user is talking !
+ 
+[ Sun Dec  4 07:22:51 2016 ]=>  JoeBloggs [246559447] banned user is talking !
+ 
+[ Sun Dec  4 07:23:48 2016 ]=>  JoeBloggs [246559447] banned user is talking !
+ 
+[ Sun Dec  4 07:24:17 2016 ]=>  JoeBloggs [246559447] banned user is talking !
+ 
+[ Sun Dec  4 08:07:39 2016 ]=>  JoeBloggs [246559447] banned user is talking !
+ 
+[ Sun Dec  4 08:07:58 2016 ]=>  JoeBloggs [246559447] banned user is talking !
+ 
+[ Mon Dec  5 18:12:05 2016 ]=>  DevanshBajaj [266372275] banned user is talking !
+ 
+[ Mon Dec  5 18:55:42 2016 ]=>  DevanshBajaj [266372275] is banned and kicked ! 
+ 
+[ Wed Dec  7 10:44:33 2016 ]=>  JoeBloggs [246559447] banned user is talking !
+ 
+[ Wed Dec  7 10:44:44 2016 ]=>  JoeBloggs [246559447] banned user is talking !
+ 
+[ Wed Dec  7 11:47:39 2016 ]=>  GNU/Haruhi Suzumiya-chan (涼宮ハルヒちゃん) XDA:  anupritaisno1 [212257536] requested SuperGroup ID
+ 
+[ Sat Dec 10 10:27:40 2016 ]=>  Tristan Marsell Admin [116004047] joined the SuperGroup via link
+ 

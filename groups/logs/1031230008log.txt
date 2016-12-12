@@ -2956,3 +2956,13 @@
  
 [ Fri Nov 25 07:55:12 2016 ]=>  N [87694790] banned user is talking !
  
+[ Fri Dec  2 01:42:36 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Fri Dec  2 01:55:59 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Fri Dec  2 18:05:10 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Fri Dec  2 18:05:12 2016 ]=>  N [87694790] banned user is talking !
+ 
+[ Fri Dec  2 18:10:13 2016 ]=>  N [87694790] banned user is talking !
+ 

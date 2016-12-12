@@ -84,3 +84,27 @@
  
 [ Sat Nov 26 06:01:56 2016 ]=>  SagarShah [214044393] banned user is talking !
  
+[ Sat Dec  3 05:19:32 2016 ]=>  Divyansh747 [203988506] banned user is talking !
+ 
+[ Sat Dec  3 05:19:34 2016 ]=>  Divyansh747 [203988506] banned user is talking !
+ 
+[ Tue Dec  6 13:25:20 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Tue Dec  6 13:25:28 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Tue Dec  6 13:25:33 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Tue Dec  6 13:25:41 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Tue Dec  6 13:26:55 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Tue Dec  6 13:27:00 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Tue Dec  6 13:27:32 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Tue Dec  6 13:27:38 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Tue Dec  6 13:27:43 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Wed Dec  7 05:22:01 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 

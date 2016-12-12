@@ -420,3 +420,33 @@
  
 [ Sat Nov 26 18:27:29 2016 ]=>  GroupButler [176365905] banned user is talking !
  
+[ Fri Dec  2 00:51:30 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Fri Dec  2 17:15:55 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Fri Dec  2 19:34:22 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Fri Dec  2 22:41:07 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sun Dec  4 13:30:09 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Sun Dec  4 13:41:43 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Tue Dec  6 00:02:15 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Tue Dec  6 16:31:51 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Tue Dec  6 20:27:29 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Wed Dec  7 06:55:50 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Thu Dec  8 12:55:46 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Fri Dec  9 11:16:45 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Fri Dec  9 14:09:45 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Fri Dec  9 14:11:17 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 
+[ Fri Dec  9 20:32:32 2016 ]=>  GroupButler [176365905] banned user is talking !
+ 

@@ -1428,3 +1428,47 @@ If you are banned by the bot, you should directly get in touch with clannad or y
  
 [ Sat Nov 26 19:04:04 2016 ]=>  yuda [34804026] renamed SuperGroup to: 💯 hacking games 💯 (3.4K)
  
+[ Thu Dec  1 18:44:06 2016 ]=>  YonathanKalimi @yonathank [132357733] kicked for #spam
+ 
+[ Fri Dec  2 14:01:45 2016 ]=>  GNU/Haruhi Suzumiya-chan (涼宮ハルヒちゃん) XDA:  anupritaisno1 [212257536] requested SuperGroup settings 
+ 
+[ Fri Dec  2 14:01:55 2016 ]=>  GNU/Haruhi Suzumiya-chan (涼宮ハルヒちゃん) XDA:  anupritaisno1 [212257536] deleted a message by reply
+ 
+[ Sat Dec  3 18:30:33 2016 ]=>  GNU/Haruhi Suzumiya-chan (涼宮ハルヒちゃん) XDA:  anupritaisno1 [212257536] added [273987526] to the muted users list
+ 
+[ Sat Dec  3 18:30:53 2016 ]=>  GNU/Haruhi Suzumiya-chan (涼宮ハルヒちゃん) XDA:  anupritaisno1 [212257536] requested SuperGroup mutelist
+ 
+[ Sat Dec  3 18:37:12 2016 ]=>  GNU/Haruhi Suzumiya-chan (涼宮ハルヒちゃん) XDA:  anupritaisno1 [212257536] requested SuperGroup mutelist
+ 
+[ Sat Dec  3 18:38:04 2016 ]=>  GNU/Haruhi Suzumiya-chan (涼宮ハルヒちゃん) XDA:  anupritaisno1 [212257536] requested SuperGroup mutelist
+ 
+[ Sat Dec  3 18:38:15 2016 ]=>  GNU/Haruhi Suzumiya-chan (涼宮ハルヒちゃん) XDA:  anupritaisno1 [212257536] removed [273987526] from the muted users list
+ 
+[ Sun Dec  4 16:00:51 2016 ]=>  GNU/Haruhi Suzumiya-chan (涼宮ハルヒちゃん) XDA:  anupritaisno1 [212257536] requested SuperGroup ID
+ 
+[ Wed Dec  7 09:23:06 2016 ]=>  Leib moss® [152031724] requested SuperGroup settings 
+ 
+[ Wed Dec  7 09:23:40 2016 ]=>  Leib moss® [152031724] locked sticker posting
+ 
+[ Wed Dec  7 09:24:28 2016 ]=>  Leib moss® [152031724] requested SuperGroup settings 
+ 
+[ Wed Dec  7 13:07:34 2016 ]=>  Leib moss® [152031724] renamed SuperGroup to: 💯 hacking games 💯 (3.52K)
+ 
+[ Wed Dec  7 13:08:03 2016 ]=>  GNU/Haruhi Suzumiya-chan (涼宮ハルヒちゃん) XDA:  anupritaisno1 [0] renamed SuperGroup to: 💯 hacking games 💯 (3.6K)
+ 
+[ Wed Dec  7 13:10:28 2016 ]=>  Leib moss® [152031724] renamed SuperGroup to: 💯 hacking games 💯 (3.5K)
+ 
+[ Wed Dec  7 21:07:19 2016 ]=>  Leib moss® [152031724] requested group rules
+ 
+[ Thu Dec  8 05:20:08 2016 ]=>  GNU/Haruhi Suzumiya-chan (涼宮ハルヒちゃん) XDA:  anupritaisno1 [0] renamed SuperGroup to: 💯 hacking games 💯 (200.5K)
+ 
+[ Thu Dec  8 05:20:37 2016 ]=>  GNU/Haruhi Suzumiya-chan (涼宮ハルヒちゃん) XDA:  anupritaisno1 [0] renamed SuperGroup to: 💯 hacking games 💯 (3.5K)
+ 
+[ Mon Dec 12 09:43:36 2016 ]=>  GNU/Haruhi Suzumiya-chan (涼宮ハルヒちゃん) XDA:  anupritaisno1 [212257536] requested SuperGroup ID
+ 
+[ Mon Dec 12 09:43:42 2016 ]=>  GNU/Haruhi Suzumiya-chan (涼宮ハルヒちゃん) XDA:  anupritaisno1 [212257536] requested group rules
+ 
+[ Mon Dec 12 11:12:41 2016 ]=>  GNU/Haruhi Suzumiya-chan (涼宮ハルヒちゃん) XDA:  anupritaisno1 [212257536] requested SuperGroup ID
+ 
+[ Mon Dec 12 11:18:52 2016 ]=>  GNU/Haruhi Suzumiya-chan (涼宮ハルヒちゃん) XDA:  anupritaisno1 [212257536] requested SuperGroup ID
+ 

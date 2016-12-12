@@ -8,7 +8,7 @@ commands = {
 }
 dependencies = {
    fakeredis = {
-      ['0.4-1'] = {
+      ['0.5-1'] = {
          {
             constraints = {
                {
@@ -320,7 +320,7 @@ modules = {
       "luacrypto/0.3.2-2"
    },
    fakeredis = {
-      "fakeredis/0.4-1"
+      "fakeredis/0.5-1"
    },
    feedparser = {
       "feedparser/0.71-3"
@@ -427,7 +427,7 @@ modules = {
 }
 repository = {
    fakeredis = {
-      ['0.4-1'] = {
+      ['0.5-1'] = {
          {
             arch = "installed",
             commands = {},

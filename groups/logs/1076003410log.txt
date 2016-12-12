@@ -90,3 +90,5 @@
  
 [ Wed Nov 23 09:51:11 2016 ]=>  DennisSey [171272068] banned user is talking !
  
+[ Wed Dec  7 16:23:36 2016 ]=>  Patrick Tang [107851874] renamed SuperGroup to: This triggers the &rew
+ 

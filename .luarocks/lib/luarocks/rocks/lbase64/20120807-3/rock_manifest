@@ -4,6 +4,6 @@ rock_manifest = {
    },
    ['lbase64-20120807-3.rockspec'] = "cbbc632f04b2724765b4fe7c36eee152",
    lib = {
-      ['base64.so'] = "d64be608c205e8245a4508a4b226920f"
+      ['base64.so'] = "9080777209e41cc7f41128e2083dfa5f"
    }
 }

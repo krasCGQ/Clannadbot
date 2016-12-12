@@ -11,7 +11,7 @@ rock_manifest = {
       }
    },
    lib = {
-      ['crypto.so'] = "667fa5a814f288b90e63ef66120c2360"
+      ['crypto.so'] = "47654c66b1393acff70e1e8cede650e4"
    },
    ['luacrypto-0.3.2-2.rockspec'] = "4988164c7a6911f4173042ef28e49606"
 }
