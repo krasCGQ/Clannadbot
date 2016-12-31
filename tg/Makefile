@@ -1,6 +1,6 @@
 srcdir=.
 
-CFLAGS=-g -Ofast 
+CFLAGS=-Ofast 
 LDFLAGS= -L/usr/local/lib -L/usr/lib -L/usr/lib 
 CPPFLAGS= -I/usr/local/include -I/usr/include -I/usr/include -I/usr/include/lua5.2 
 DEFS=-DHAVE_CONFIG_H
