@@ -1,0 +1,28 @@
+[ Sat Dec 31 11:57:21 2016 ]=>  AnandMore [144226654] added a banned user >144226654
+ 
+[ Sat Dec 31 11:59:42 2016 ]=>  Ben [86779757] added a banned user >86779757
+ 
+[ Sat Dec 31 14:07:04 2016 ]=>  Haruhi Suzumiya? [212257536] added SuperGroup
+ 
+[ Sat Dec 31 14:07:11 2016 ]=>  Haruhi Suzumiya? [212257536] requested SuperGroup ID
+ 
+[ Sat Dec 31 14:07:42 2016 ]=>  Rohan [162889325] requested SuperGroup ID
+ 
+[ Sat Dec 31 14:08:21 2016 ]=>  Rohan [162889325] deleted a message by reply
+ 
+[ Sat Dec 31 14:08:30 2016 ]=>  Rohan [162889325] deleted a message by reply
+ 
+[ Sat Dec 31 14:21:08 2016 ]=>  Haruhi Suzumiya? [212257536] requested SuperGroup ID
+ 
+[ Sat Dec 31 14:21:19 2016 ]=>  Haruhi Suzumiya? [212257536] requested SuperGroup ID
+ 
+[ Sat Dec 31 16:34:20 2016 ]=>  Haruhi Suzumiya? [212257536] requested SuperGroup ID
+ 
+[ Sat Dec 31 16:35:11 2016 ]=>  Haruhi Suzumiya? [212257536] set: [238058285] as admin by reply
+ 
+[ Sat Dec 31 16:35:19 2016 ]=>  Haruhi Suzumiya? [212257536] set: [238058285] as admin by reply
+ 
+[ Sat Dec 31 16:35:39 2016 ]=>  Haruhi Suzumiya? [212257536] requested SuperGroup settings 
+ 
+[ Sat Dec 31 16:43:29 2016 ]=>  Haruhi Suzumiya? [212257536] requested SuperGroup ID
+ 

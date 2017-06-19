@@ -8,7 +8,7 @@ objs/binlog.o: tgl/binlog.c /usr/include/stdc-predef.h config.h \
  /usr/include/x86_64-linux-gnu/bits/environments.h \
  /usr/include/x86_64-linux-gnu/bits/types.h \
  /usr/include/x86_64-linux-gnu/bits/typesizes.h \
- /usr/lib/gcc/x86_64-linux-gnu/6/include/stddef.h \
+ /usr/lib/gcc/x86_64-linux-gnu/4.9/include/stddef.h \
  /usr/include/x86_64-linux-gnu/bits/confname.h /usr/include/getopt.h \
  /usr/include/x86_64-linux-gnu/sys/types.h /usr/include/time.h \
  /usr/include/endian.h /usr/include/x86_64-linux-gnu/bits/endian.h \
@@ -33,7 +33,7 @@ objs/binlog.o: tgl/binlog.c /usr/include/stdc-predef.h config.h \
  /usr/include/x86_64-linux-gnu/asm/errno.h \
  /usr/include/asm-generic/errno.h /usr/include/asm-generic/errno-base.h \
  /usr/include/stdio.h /usr/include/libio.h /usr/include/_G_config.h \
- /usr/include/wchar.h /usr/lib/gcc/x86_64-linux-gnu/6/include/stdarg.h \
+ /usr/include/wchar.h /usr/lib/gcc/x86_64-linux-gnu/4.9/include/stdarg.h \
  /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
  /usr/include/x86_64-linux-gnu/bits/sys_errlist.h \
  /usr/include/x86_64-linux-gnu/bits/stdio.h /usr/include/string.h \
@@ -72,7 +72,7 @@ config.h:
 
 /usr/include/x86_64-linux-gnu/bits/typesizes.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/6/include/stddef.h:
+/usr/lib/gcc/x86_64-linux-gnu/4.9/include/stddef.h:
 
 /usr/include/x86_64-linux-gnu/bits/confname.h:
 
@@ -146,7 +146,7 @@ config.h:
 
 /usr/include/wchar.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/6/include/stdarg.h:
+/usr/lib/gcc/x86_64-linux-gnu/4.9/include/stdarg.h:
 
 /usr/include/x86_64-linux-gnu/bits/stdio_lim.h:
 
