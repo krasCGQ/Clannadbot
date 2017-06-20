@@ -1534,3 +1534,7 @@ If you are banned by the bot, you should directly get in touch with clannad or y
  
 [ Thu Dec 29 22:32:16 2016 ]=>  TG - BOT [324819977] requested SuperGroup ID
  
+[ Mon Jun 19 23:34:23 2017 ]=>  Mikuru-chan ! [285349781] requested SuperGroup ID
+ 
+[ Tue Jun 20 18:08:40 2017 ]=>  ™EverythingMe Support® [137131250] requested group rules
+ 

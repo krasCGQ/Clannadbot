@@ -92,3 +92,5 @@
  
 [ Fri Dec 30 19:29:27 2016 ]=>  Kamikaze Chaser Admin [135207785] joined the SuperGroup via link
  
+[ Tue Jun 20 22:42:11 2017 ]=>  russianhacker [120463545] banned user is talking !
+ 

@@ -2224,3 +2224,11 @@
  
 [ Sat Dec 31 12:22:19 2016 ]=>  JoeBloggs [246559447] banned user is talking !
  
+[ Mon Jun 19 23:23:56 2017 ]=>  Haruhi Suzumiya-chan (涼宮ハルヒちゃん) XDA:  anupritaisno1  haruhirom  justgetinfected [212257536] requested SuperGroup ID
+ 
+[ Mon Jun 19 23:30:14 2017 ]=>  Haruhi Suzumiya-chan (涼宮ハルヒちゃん) XDA:  anupritaisno1  haruhirom  justgetinfected [212257536] requested SuperGroup ID
+ 
+[ Mon Jun 19 23:30:17 2017 ]=>  Haruhi Suzumiya-chan (涼宮ハルヒちゃん) XDA:  anupritaisno1  haruhirom  justgetinfected [212257536] requested SuperGroup settings 
+ 
+[ Mon Jun 19 23:30:49 2017 ]=>  Thijs - NL [270102883] requested SuperGroup ID
+ 

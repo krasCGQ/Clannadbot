@@ -1,0 +1,28 @@
+[ Mon Jun 19 23:13:14 2017 ]=>  Haruhi Suzumiya-chan (涼宮ハルヒちゃん) XDA:  anupritaisno1  haruhirom  justgetinfected [212257536] added SuperGroup
+ 
+[ Mon Jun 19 23:13:19 2017 ]=>  Haruhi Suzumiya-chan (涼宮ハルヒちゃん) XDA:  anupritaisno1  haruhirom  justgetinfected [212257536] requested SuperGroup ID
+ 
+[ Mon Jun 19 23:13:59 2017 ]=>  Haruhi Suzumiya-chan (涼宮ハルヒちゃん) XDA:  anupritaisno1  haruhirom  justgetinfected [212257536] requested SuperGroup ID
+ 
+[ Mon Jun 19 23:17:24 2017 ]=>  Haruhi Suzumiya-chan (涼宮ハルヒちゃん) XDA:  anupritaisno1  haruhirom  justgetinfected [212257536] requested ID for: @deletescape
+ 
+[ Mon Jun 19 23:17:49 2017 ]=>  Haruhi Suzumiya-chan (涼宮ハルヒちゃん) XDA:  anupritaisno1  haruhirom  justgetinfected [212257536] requested ID for: @pagaiba
+ 
+[ Mon Jun 19 23:19:19 2017 ]=>  Haruhi Suzumiya-chan (涼宮ハルヒちゃん) XDA:  anupritaisno1  haruhirom  justgetinfected [212257536] obtained id for: [161472020]
+ 
+[ Mon Jun 19 23:35:30 2017 ]=>  Haruhi Suzumiya-chan (涼宮ハルヒちゃん) XDA:  anupritaisno1  haruhirom  justgetinfected [212257536] requested ID for: @dangou
+ 
+[ Mon Jun 19 23:35:53 2017 ]=>  Haruhi Suzumiya-chan (涼宮ハルヒちゃん) XDA:  anupritaisno1  haruhirom  justgetinfected [212257536] requested ID for: @AstonishedByTheLackOfNeko
+ 
+[ Mon Jun 19 23:36:02 2017 ]=>  Haruhi Suzumiya-chan (涼宮ハルヒちゃん) XDA:  anupritaisno1  haruhirom  justgetinfected [212257536] requested ID for: @Akkey
+ 
+[ Mon Jun 19 23:38:45 2017 ]=>  Mikuru-chan ! [285349781] requested SuperGroup settings 
+ 
+[ Tue Jun 20 09:20:37 2017 ]=>  Haruhi Suzumiya-chan (涼宮ハルヒちゃん) XDA:  anupritaisno1  haruhirom  justgetinfected [212257536] requested SuperGroup ID
+ 
+[ Tue Jun 20 15:30:45 2017 ]=>  Haruhi Suzumiya-chan (涼宮ハルヒちゃん) XDA:  anupritaisno1  haruhirom  justgetinfected [212257536] requested SuperGroup settings 
+ 
+[ Tue Jun 20 16:29:07 2017 ]=>  Haruhi Suzumiya-chan (涼宮ハルヒちゃん) XDA:  anupritaisno1  haruhirom  justgetinfected [212257536] set group to: public
+ 
+[ Tue Jun 20 16:29:12 2017 ]=>  Haruhi Suzumiya-chan (涼宮ハルヒちゃん) XDA:  anupritaisno1  haruhirom  justgetinfected [212257536] set SuperGroup to: not public
+ 

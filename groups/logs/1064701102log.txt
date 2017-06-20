@@ -632,3 +632,13 @@
  
 [ Fri Dec 16 19:49:36 2016 ]=>  Sai [64789625] banned user is talking !
  
+[ Mon Jun 19 23:46:18 2017 ]=>  SpeedFreek [160837387] banned user is talking !
+ 
+[ Tue Jun 20 03:09:27 2017 ]=>  SpeedFreek [160837387] banned user is talking !
+ 
+[ Tue Jun 20 03:10:40 2017 ]=>  SpeedFreek [160837387] banned user is talking !
+ 
+[ Tue Jun 20 03:12:42 2017 ]=>  SpeedFreek [160837387] banned user is talking !
+ 
+[ Tue Jun 20 03:12:43 2017 ]=>  SpeedFreek [160837387] banned user is talking !
+ 
