@@ -1,4 +1,0 @@
-[ Fri Jun 17 21:07:23 2016 ]=>  Haruhi Suzumiya [212257536] added SuperGroup
- 
-[ Fri Jun 17 21:07:34 2016 ]=>  Haruhi Suzumiya [212257536] requested SuperGroup users list
- 

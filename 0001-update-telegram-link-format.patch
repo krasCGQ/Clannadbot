@@ -1,0 +1,35 @@
+From ad7fb1d104c05091bee9619bec10e5dd11dda400 Mon Sep 17 00:00:00 2001
+From: anupritaisno1 <www.anuprita804@gmail.com>
+Date: Mon, 30 Oct 2017 18:36:04 +0100
+Subject: [PATCH] update telegram link format
+
+Signed-off-by: anupritaisno1 <www.anuprita804@gmail.com>
+---
+ plugins/supergroup.lua | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/plugins/supergroup.lua b/plugins/supergroup.lua
+index d517b3a..d72fc84 100644
+--- a/plugins/supergroup.lua
++++ b/plugins/supergroup.lua
+@@ -1315,7 +1315,7 @@ local function run(msg, matches)
+ 		end
+ 
+ 		if msg.text then
+-			if msg.text:match("^([https?://w]*.?telegram.me/joinchat/%S+)$") and data[tostring(msg.to.id)]['settings']['set_link'] == 'waiting' and is_owner(msg) then
++			if msg.text:match("^([https?://w]*.?t.me/joinchat/%S+)$") and data[tostring(msg.to.id)]['settings']['set_link'] == 'waiting' and is_owner(msg) then
+ 				data[tostring(msg.to.id)]['settings']['set_link'] = msg.text
+ 				save_data(_config.moderation.data, data)
+ 				return "New link set"
+@@ -2096,7 +2096,7 @@ return {
+ 	"^[#!/]([Mm]utelist)$",
+     "[#!/](mp) (.*)",
+ 	"[#!/](md) (.*)",
+-    "^([https?://w]*.?telegram.me/joinchat/%S+)$",
++    "^([https?://w]*.?t.me/joinchat/%S+)$",
+ 	"msg.to.peer_id",
+ 	"%[(document)%]",
+ 	"%[(photo)%]",
+-- 
+2.15.0.rc2
+
